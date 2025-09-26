@@ -1,0 +1,3 @@
+HiddenServiceDir ../Data/Tor/hidden_service
+HiddenServicePort 9999 127.0.0.1:9999
+DataDirectory ../Data/Tor
